@@ -23,6 +23,9 @@ builder.Services.AddDbContext<AppDbContext>(options => {
 builder.Services.AddTransient<IExperimentService, ExperimentService>();
 builder.Services.AddTransient<IExperimentRepository, ExperimentRepository>();
 
+builder.Services.AddTransient<IStatisticsService, StatisticsService>();
+builder.Services.AddTransient<IStatisticsRepository, StatisticsRepository>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
