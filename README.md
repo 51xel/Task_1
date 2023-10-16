@@ -4,11 +4,11 @@
 
 The test task is designed to conduct experiments with token devices, store them, and display statistics.
 ## Table of Contents
-1.	[API Endpoints](https://github.com/51xel/Task_1/edit/main/README.md#table-of-contents)
-2.	[Experiments](https://github.com/51xel/Task_1/edit/main/README.md#experiments)
-3.	[Requirements and Restrictions](https://github.com/51xel/Task_1/edit/main/README.md#requirements-and-restrictions)
-4.	[Technologies Used](https://github.com/51xel/Task_1/edit/main/README.md#technologies-used)
-5.	[Database Structure](https://github.com/51xel/Task_1/edit/main/README.md#database-structure)
+1.	[API Endpoints](https://github.com/51xel/Task_1#api-endpoints)
+2.	[Experiments](https://github.com/51xel/Task_1#experiments)
+3.	[Requirements and Restrictions](https://github.com/51xel/Task_1#requirements-and-restrictions)
+4.	[Technologies Used](https://github.com/51xel/Task_1#technologies-used)
+5.	[Database Structure](https://github.com/51xel/Task_1#database-structure)
     
 ## API Endpoints
 ### 1. Generate Client ID and Request Experiment
